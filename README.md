@@ -3,7 +3,7 @@
 *Apply proper capitalization to names.*
 
 > Dear NiK and ALEX,
-
+>
 > There is no better way to ruin the personalization in a direct mail or e-mail campaign than poorly capitalized Jean-marcs, Mcdonalds and JOEs. Banish bad capitalization from your marketing toolkit with the Proper Name Case Converter.
 
 The Proper Name Case Converter applies proper capitalization across a swath of common name-types.
